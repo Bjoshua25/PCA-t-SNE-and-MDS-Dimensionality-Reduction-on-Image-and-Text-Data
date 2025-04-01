@@ -1,5 +1,7 @@
 # **PCA, t-SNE, and MDS Dimensionality Reduction on Image and Text Data**  
 
+![](cover_image.png)
+
 ## **INTRODUCTION**  
 Dimensionality reduction is a crucial technique in machine learning and data science, especially when dealing with **high-dimensional datasets** such as images and text. This project explores three powerful **dimensionality reduction techniques**:  
 - **Principal Component Analysis (PCA)**  
@@ -35,6 +37,8 @@ High-dimensional data poses challenges such as **computational inefficiency, inc
 - **Reduces dimensions while preserving maximum variance.**  
 - **Explained Variance Ratio Analysis** to determine optimal components.  
 
+![](pca_clusters.png)
+
 ### **2. t-Distributed Stochastic Neighbor Embedding (t-SNE)**  
 - **Captures non-linear structures in the data.**  
 - **Useful for visualizing clusters in complex datasets.**  
@@ -44,6 +48,8 @@ High-dimensional data poses challenges such as **computational inefficiency, inc
 - **Preserves pairwise distances between data points.**  
 - **Used for similarity-based dimensionality reduction.**  
 - **Comparison with PCA and t-SNE in terms of efficiency and visualization.**  
+
+![](tSNE_clusters.png)
 
 ## **VISUALIZATION & ANALYSIS**  
 - **2D & 3D Visualizations of Reduced Dimensions**  
